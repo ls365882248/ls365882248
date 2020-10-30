@@ -1,4 +1,11 @@
-### Hi there 👋
+### TODOS
+
+- 🔭 I’m currently working on ...
+
+[React](https://github.com/ls365882248/blog/issues/10)
+
+[TypeScript](https://github.com/ls365882248/blog/issues/9)
+
 
 <!--
 **ls365882248/ls365882248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
