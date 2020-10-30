@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on ...
 
-[React](https://github.com/ls365882248/blog/issues/10)
+- [React](https://github.com/ls365882248/blog/issues/10)
 
-[TypeScript](https://github.com/ls365882248/blog/issues/9)
+- [TypeScript](https://github.com/ls365882248/blog/issues/9)
 
 
 <!--
